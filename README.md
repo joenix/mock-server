@@ -3,5 +3,5 @@
 ## Run Server
 
 ```bash
-node serve.js
+node serve.js // 3000
 ```
