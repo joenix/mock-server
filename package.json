@@ -3,6 +3,6 @@
     "console-color-mr": "^2.0.1",
     "koa": "^2.7.0",
     "koa-router": "^7.4.0",
-    "mockjs": "^1.0.1-beta3"
+    "mockjs": "^1.1.0"
   }
 }
